@@ -15,3 +15,9 @@ project title:analysi and prediction of 'small customers.csv' file of American m
 ![image](https://github.com/Manoharatikam/HIERACHICAL-CLUSTERING/assets/112773863/3f643a0f-6f53-4aae-a7ba-ac68e568d0ab)
 
 ##CONCLUSION:According to the model building as a engineer my prediction has give highest number of linkages
+## INSIGHTS 
+cluster1 contains the color which shows that unsupervised learning cluster as a maximum euclidean distance up to annual income approximate 139 ks 
+Cluster2 contains [blue] whicch shows that unsupervised learning cluster as maximum euclidean distance from approximately 79 to 89 ks 
+Cluster3 contains [green] which shows that unsupervised learning cluster as maximum euclidean distance from approximately 139ks 
+Cluster4 contains [skyblue] whicch shows that unsupervised learning cluster as maximum euclidean distance from approximately 39ks 
+Cluster5 contains [pink] whicch shows that unsupervised learning cluster as maximum euclidean distance from approximately 40 ks 
